@@ -28,6 +28,8 @@ Batangas State University, Alangilan Campus
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
+Google Gemini and ClaudeAI is used as a basis after copy and pasting from the coilab.research.google.com activities, mixed with my own words
+
 Ch1_2_3: In chapters 1, 2 , and 3, taught me that it is possible to process data using prompts making data processing much easier just by having correct and available data. Chapter 1 - Data preprocessing, in the word pre- signifies the actions that is done before processing the data. For the chapter 2 - The power of Data, is the possibilities made as to having data, which can be in different formats, an essential part of data preprocessing, using import pandas as pd. For the Chapter 3 - Cleaning your Data, is to clean or fix the data such as using imputation, deletion, and prediction
 
 Ch4: For Chapter 4 - using the data into others ways or application, where importing pandas as pd allows and having inputing a simple raw data, I can create new features, such as using the values then applying formula to get a new sets of data. Another application is creating a category where ranges are formed for easier understanding, interaction features, polynomial features, categorical variable encoding, and ordinal coding. To sum up, chapter 4, explains the other applications and possibilities by having data, it can be tailored or be categorized onto what data is needed.
