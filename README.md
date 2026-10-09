@@ -5,7 +5,7 @@ MexEE Elective 2: Data Science and Machine Learning
 Batangas State University, Alangilan Campus
 1st Semester, AY 2026-2027
 
-## Members
+## Member
 
 | Name | Student Number | Section |
 |---|---|---|
@@ -42,7 +42,7 @@ Ch8: Chapter 8 - Constructing a preprocessing pipeline, taught me that automatio
 
 CH9: Real-World Application - Data Preprocessing taught me the use of coding or preprocessing applied in a scenario, where having a raw data can be processed into an accurate data, then compressing, and removing irrelevant features for unnecessary information. Then the evaluation, for the data quality report to know if there is none missing as well as the visualization for better understanding.
 
-## Errors we found
+## Errors I found
 
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
